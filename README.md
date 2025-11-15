@@ -29,7 +29,7 @@ This project represents my first Power BI report while building technical skills
 
 -Satisfaction with salary is low (4.27/10) compared to learning and work-life balance.
 
-🛠 Tools & Skills Used
+**🛠 Tools & Skills Used**
 
 -Area	Tool/Method
 
