@@ -28,3 +28,15 @@ This project represents my first Power BI report while building technical skills
 -47% of respondents are considering a job change, with salary and remote flexibility being the main reasons.
 
 -Satisfaction with salary is low (4.27/10) compared to learning and work-life balance.
+
+🛠 Tools & Skills Used
+
+-Area	Tool/Method
+
+-Data Visualization	Power BI
+
+-Data Cleaning	Power Query
+
+-Source Format	Excel Dataset
+
+-Design	Custom color palette + dashboard formatting
