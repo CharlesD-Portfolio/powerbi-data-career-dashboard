@@ -7,6 +7,9 @@ This dashboard analyzes survey responses from 630 data professionals and learner
 
 This project represents my first Power BI report while building technical skills in data analytics and visualization.
 
+<p align="center">
+<img width="1321" height="741" alt="Power BI - First Project" src="https://github.com/user-attachments/assets/d77d785c-1c12-4f9c-97ff-2460794300a2" />
+</p>
 
 **🔍 Project Objectives**
 
