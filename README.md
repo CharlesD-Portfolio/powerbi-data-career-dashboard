@@ -7,6 +7,7 @@ This dashboard analyzes survey responses from 630 data professionals and learner
 
 This project represents my first Power BI report while building technical skills in data analytics and visualization.
 
+
 **🔍 Project Objectives**
 
 -Identify the most popular programming languages in the data field
@@ -16,6 +17,7 @@ This project represents my first Power BI report while building technical skills
 -Measure satisfaction levels with salary, work-life balance, and learning
 
 -Understand what drives people to consider changing jobs
+
 
 **🧠 Key Findings**
 
