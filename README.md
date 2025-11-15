@@ -1,4 +1,4 @@
-# powerbi-data-career-dashboard
+# Power BI-data-career-dashboard
 First Power BI project analyzing real survey data on data careers, focusing on programming trends, salary differences, and job satisfaction.
 
 **Power BI — Data Career Survey Dashboard**
